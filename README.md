@@ -11,7 +11,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 https://github.com/merveoktay/kodluyoruzilkrepo.git
 ```
 ## Usage
-------------------------
+--------------------------
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için;
